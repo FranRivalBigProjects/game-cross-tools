@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText='Objects: '+data.value.split('\n').length;}
